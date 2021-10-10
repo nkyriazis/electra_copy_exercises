@@ -1,6 +1,6 @@
 # Simple copy exercises for kids
 
-This is to generate simple exercises for kids to practive their writing. These sentences are sources from a `.json` file and are output to a ready-to-print `.docx` file, through templating.
+This is to generate simple exercises for kids to practice their writing. These sentences are sources from a `.json` file and are output to a ready-to-print `.docx` file, through templating.
 ![Example](img/example.png)
 
 ## Requirements
